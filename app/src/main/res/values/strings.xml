@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cold</string>
+    <string name="zoom_preview">zoom_preview</string>
+    <string name="unzoom_preview">unzoom_preview</string>
+</resources>
